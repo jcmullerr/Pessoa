@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Arquivo de parâmetros</comment>
+<entry key="urlBanco">jdbc:postgresql://localhost:5432/ProgIII</entry>
+<entry key="senha">norma3006</entry>
+<entry key="driverJdbc">org.postgresql.Driver</entry>
+<entry key="nomeUsuario">postgres</entry>
+</properties>
